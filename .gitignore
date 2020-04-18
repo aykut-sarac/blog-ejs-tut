@@ -23,3 +23,5 @@ coverage/
 out/
 pkg/
 /package-lock.json
+/*.env
+/node_modules
