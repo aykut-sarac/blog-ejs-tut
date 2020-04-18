@@ -25,3 +25,4 @@ pkg/
 /package-lock.json
 /*.env
 /node_modules
+.env
